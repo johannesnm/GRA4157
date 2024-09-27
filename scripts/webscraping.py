@@ -7,7 +7,7 @@ import pandas as pd
 """
 Exercise 4: Scrape CoinMarketCap's Top 10 Cryptocurrencies
 Scrape 'Name', 'Symbol', and 'Market Cap' data
-Identify the cryptocurrency with the highest market cap. """
+Identify the cryptocurrency with the highest market cap. d """
 
 # Setup our WebDriver
 driver = webdriver.Chrome() 
